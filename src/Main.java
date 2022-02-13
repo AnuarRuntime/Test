@@ -17,6 +17,7 @@ public class Main {
         for (Animal a: animals) {
             a.run((int)(Math.random() * (MAX - MIN)));
             a.swim((int)(Math.random() * (MAX - MIN)/10));
+            
         }
 
 
