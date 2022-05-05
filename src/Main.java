@@ -1,6 +1,6 @@
 public class Main {
     private static final int MIN = -5;
-    private static final int MAX = 1000;
+    private static final int MAX = 900; // заменено с 1000 на 900
 
     public static void main(String[] args) {
         Animal[] animals = {
