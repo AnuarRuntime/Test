@@ -2,7 +2,7 @@ public class Dog  extends Animal{
 
     static int counterDog ;
     private final int runLimit = 500;
-    private final int swimLimit = 10;
+    private final int swimLimit = 15;   // - увеличена скорость плавания собаки
 
     public Dog(String name) {
         super(name);
